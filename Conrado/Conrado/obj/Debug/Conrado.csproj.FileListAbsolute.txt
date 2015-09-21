@@ -1,0 +1,17 @@
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\bin\Debug\Conrado.exe
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\bin\Debug\Conrado.pdb
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.csprojResolveAssemblyReference.cache
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.MainScreen.resources
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.Properties.Resources.resources
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.csproj.GenerateResource.Cache
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.exe
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.pdb
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.Views.AcercaDeScreen.resources
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.Views.CatalogoForm.resources
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\bin\Debug\Conrado.exe.manifest
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\bin\Debug\Conrado.application
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.exe.manifest
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.application
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.Views.InventariosForm.resources
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.Views.NewESForm.resources
+f:\documentos\visual studio 2015\Projects\Conrado\Conrado\obj\Debug\Conrado.Views.NewUpdateCatalogo.resources
